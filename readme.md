@@ -13,9 +13,9 @@ This screenshot was taken with the [Minimal](https://github.com/kepano/obsidian-
 
 # How to install and enable
 
-1. Open your root vault folder in your OS file explorer
+1. Open your vault root folder in your OS file explorer
 2. Open the `.obsidian` folder and create a new folder called `snippets`
-3. Paste the `explorer-with-icons.css` inside of the `snippets` folder
+3. Download and paste the `explorer-with-icons.css` of this repository inside of the `snippets` folder
 4. In Obsidian, open the settings in the appearance section, scroll down to the end and enable the snippet
 
 > [!NOTE]
